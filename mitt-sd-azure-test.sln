@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mitt-sd-azure-test", "mitt-sd-azure-test\mitt-sd-azure-test.csproj", "{587151BE-5EDE-4B33-90A4-98E4AE5E9D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{587151BE-5EDE-4B33-90A4-98E4AE5E9D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587151BE-5EDE-4B33-90A4-98E4AE5E9D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587151BE-5EDE-4B33-90A4-98E4AE5E9D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587151BE-5EDE-4B33-90A4-98E4AE5E9D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
